@@ -1,0 +1,52 @@
+body{
+    text-align: center;
+}
+table{
+    margin: 0px 1px 1px 20%;
+    width: 50%;
+    border: 2px solid black;
+}
+th{
+    background-color: royalblue;
+    color: azure;
+    height: 25px;
+}
+td{
+    color: brown;
+}
+td:hover{
+    background-color: aqua;
+}
+a{
+    color: beige;
+    text-decoration: none;
+}
+.btn3{
+    background-color: gray;
+    margin: 15px 0px 0px 50%;
+    height: 45px;
+    width: 100px;
+}
+.btn3:hover{
+    background-color: blanchedalmond;
+}
+.btn1{
+    height: 35px;
+    width: 100%;
+    background-color: aquamarine;
+}
+.btn1:hover{
+    background-color: aqua;
+    color: beige;
+    cursor: pointer;
+}
+.btn2{
+    background-color: navajowhite;
+    height: 30px;
+    width: 100px;
+}
+.btn2:hover{
+    background-color: navy;
+    color: beige;
+    cursor: pointer;
+}
