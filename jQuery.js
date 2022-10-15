@@ -1,0 +1,10 @@
+$(document).ready(function(){
+    $(".buka").click(function(){
+        $(".container").slideToggle("slow");
+    });
+});
+$(document).ready(function(){
+    $(".klik_nav").click(funtion(){
+        $(".buka_tutup").slideToggle("slow");
+    });
+});
